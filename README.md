@@ -20,6 +20,10 @@
 ## some random numbers
 * Two sets of random data with suspiciously similar summary statistics, including the IQR. Use `pandas` `df.hist()` to see how different the distributions are. Why was it so easy to fool the IQR? What can we do about it?
 
+## temperature
+* Dealing with badly presented data
+* Measuring *unusualness*
+
 ### To do
 
 * Write functions to represent different snake strategies so we can evaluate them
